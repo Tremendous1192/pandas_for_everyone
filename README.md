@@ -17,9 +17,11 @@
 <!--te-->
 
 # Pandas for Everyone
-[pandasライブラリ活用入門[第2版] データクリーニング/前処理など一連の分析プロセスをマスター!](https://book.impress.co.jp/books/1122101167)の[サンプルコード](https://github.com/chendaniely/pandas_for_everyone)の学習記録です。
+[pandasライブラリ活用入門[第2版] データクリーニング/前処理など一連の分析プロセスをマスター!](https://book.impress.co.jp/books/1122101167)の学習記録です。
 
 [オライリー(原版)の紹介ページ](https://www.oreilly.com/library/view/pandas-for-everyone/9780137891146/)
+
+[初版サンプルコード](https://github.com/chendaniely/pandas_for_everyone)
 
 Repository to accompany "Pandas for Everyone".
 
