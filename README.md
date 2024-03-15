@@ -1,3 +1,9 @@
+# Fork of Pandas for Everyone
+[pandasライブラリ活用入門[第2版] データクリーニング/前処理など一連の分析プロセスをマスター! - インプレスブックス](https://book.impress.co.jp/books/1122101167)の学習リポジトリ
+
+### Original GitHub URL
+https://github.com/chendaniely/pandas_for_everyone
+
 <!--TOC using https://github.com/ekalinin/github-markdown-toc-->
 <!--ts-->
    * [Pandas for Everyone](#pandas-for-everyone)
